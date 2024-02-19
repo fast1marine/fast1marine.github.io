@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: Crank Technologies # the main title
 
-tagline: Main site for Crank Technologies and tech blog # it will display as the sub-title
+tagline: Main site for Crank Technologies and tech blog. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
