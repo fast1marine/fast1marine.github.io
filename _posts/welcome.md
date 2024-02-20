@@ -1,6 +1,6 @@
 ---
 title: Welcome to Crank Technologies
-date: 2024-02-20 15:00:00 -500
+date: 2024-02-20 15:00:00 -0500
 categories: [welcome]
 tags: [welcome]
 ---
