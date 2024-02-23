@@ -12,3 +12,7 @@ So I’m doing a short post today about free webhosting as well as doing a quick
 # Scheduled Posts
 
 Other than showing you what I used and how to get it setup.  My other goal with this short post is to schedule it ahead of time.  Sometimes you can’t do the work you need to do at the exact time you need to do it.  So if this test works out this page should appear tomorrow.  Stay tuned.
+
+# Update
+
+It looks like it didn't automatically post so that will have to be looked into.
