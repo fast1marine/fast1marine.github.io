@@ -15,4 +15,4 @@ Other than showing you what I used and how to get it setup.  My other goal with 
 
 # Update
 
-It looks like it didn't automatically post so that will have to be looked into
+It looks like it didn't automatically post so that will have to be looked into.
