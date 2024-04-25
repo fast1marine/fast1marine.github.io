@@ -16,14 +16,14 @@ timezone: America/Chicago
 
 title: Crank Technologies # the main title
 
-tagline: Main site for Crank Technologies and tech blog. # it will display as the sub-title
+tagline: Welcome to Crank Technologies and tech blog. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Crank Technologies. An IT Company for Everyone.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "www.cranktechnologies.com"
 
 github:
   username: fast1marine # change to your github username
